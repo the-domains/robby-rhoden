@@ -1,0 +1,28 @@
+name: robby.rhoden
+favicon: null
+layout_spectrum: 0.31267573265358806
+typography_spectrum: 0.5499488615896553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5405781755689532
+  lightness: 0.6846558155957609
+  saturation: 0.3270282002631575
+  rhythmicContrast: 0.4737627694848925
+purpose: []
